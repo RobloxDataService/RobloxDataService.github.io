@@ -31,7 +31,7 @@ end
 -- TEMPLATE --
 DataService.DATA_TEMPLATE = {
 Money = 100,
-Gems = 0 
+Gems = 0
 }
  
 local temp = DataService.DATA_TEMPLATE
